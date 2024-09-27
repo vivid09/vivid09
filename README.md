@@ -4,11 +4,10 @@
 
 
 
-</div>
+</div><br>
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivid09&layout=compact)](https://github.com/vivid09/github-readme-stats) &nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivid09)](https://github.com/vivid09/github-readme-stats) &nbsp;
 
 </div><br><br><br>
